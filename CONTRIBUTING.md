@@ -1,7 +1,7 @@
 # Contributing
 
 Your contributions are always welcome!
-
+Plese send mail
 ## Guidelines
 
 * Add one link per Pull Request.
